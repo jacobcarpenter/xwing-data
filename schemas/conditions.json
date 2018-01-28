@@ -12,6 +12,7 @@
     "name": {
       "type": "string",
       "description": "The conditions's name as written on the card itself.",
+      "pattern": "^[^\"']+$",
       "minLength": 1
     },
     "xws": {
@@ -22,6 +23,7 @@
     "text": {
       "type": "string",
       "description": "The condition card's text describing its effect.",
+      "pattern": "^[^\"']+$",      
       "minLength": 1
     },
     "unique": {

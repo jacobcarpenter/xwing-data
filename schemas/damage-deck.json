@@ -8,6 +8,7 @@
     "name": {
       "type": "string",
       "description": "The card's name as written on the card itself.",
+      "pattern": "^[^\"']+$",
       "minLength": 1
     },
     "amount": {
@@ -26,6 +27,7 @@
     "text": {
       "type": "string",
       "description": "The card's text describing its effect.",
+      "pattern": "^[^\"']+$",
       "minLength": 1
     },
     "image": {

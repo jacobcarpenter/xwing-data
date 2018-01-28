@@ -17,7 +17,7 @@
     "name": "Damaged Cockpit",
     "amount": 2,
     "type": "Pilot",
-    "text": "After the round in which you receive this card, treat your pilot skill value as \"0\".",
+    "text": "After the round in which you receive this card, treat your pilot skill value as “0”.",
     "image": "damage-decks/core/damaged-cockpit.png"
   },
   {
@@ -73,7 +73,7 @@
     "name": "Structural Damage",
     "amount": 2,
     "type": "Ship",
-    "text": "Reduce your agility value by 1 (to a minimum of \"0\").<br /><br /><strong>Action:</strong> Roll 1 attack die. On a [Hit] result, flip this card facedown.",
+    "text": "Reduce your agility value by 1 (to a minimum of “0”).<br /><br /><strong>Action:</strong> Roll 1 attack die. On a [Hit] result, flip this card facedown.",
     "image": "damage-decks/core/structural-damage.png"
   },
   {
@@ -94,7 +94,7 @@
     "name": "Weapon Malfunction",
     "amount": 2,
     "type": "Ship",
-    "text": "Reduce your primary weapon value by 1 (to a minimum of \"0\").<br /><br /><strong>Action:</strong> Roll 1 attack die. On a [Hit] or [Critical Hit] result, flip this card facedown.",
+    "text": "Reduce your primary weapon value by 1 (to a minimum of “0”).<br /><br /><strong>Action:</strong> Roll 1 attack die. On a [Hit] or [Critical Hit] result, flip this card facedown.",
     "image": "damage-decks/core/weapon-malfunction.png"
   }
 ]

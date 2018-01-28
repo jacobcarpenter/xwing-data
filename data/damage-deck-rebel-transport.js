@@ -75,7 +75,7 @@
     "name": "Engine Damage",
     "amount": 3,
     "type": "Ship",
-    "text": "When you execute a maneuver, if the speed of that maneuver plus the number of faceup \"Engine Damage\" cards you have equals or exceeds 5, you must skip your \"Perform Action\" step this round.",
+    "text": "When you execute a maneuver, if the speed of that maneuver plus the number of faceup “Engine Damage” cards you have equals or exceeds 5, you must skip your “Perform Action” step this round.",
     "image": "damage-decks/rebel-transport/engine-damage.png",
     "section": "Aft"
   }

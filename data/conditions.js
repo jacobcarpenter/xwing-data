@@ -1,7 +1,7 @@
 [
   {
     "image": "conditions/ill-show-you-the-dark-side.png",
-    "name": "I'll Show You the Dark Side",
+    "name": "I’ll Show You the Dark Side",
     "xws": "illshowyouthedarkside",
     "text": "When this card is assigned, if it is not already in play, the player who assigned it searches the Damage deck for 1 Damage card with the <strong>Pilot</strong> trait and may place it faceup on this card. Then shuffle the damage deck.<br /><br />When you suffer critical damage during an attack, you are instead dealt the chosen faceup Damage card.<br /><br />When there is no Damage card on this card, remove it.",
     "unique": true,
@@ -17,7 +17,7 @@
   },
   {
     "image": "conditions/suppressive-fire.png",
-    "text": "When attacking a ship other than \"Captain Rex,\" roll 1 fewer attack die.<br /><br />When you declare an attack targeting \"Captain Rex\" or when \"Captain Rex\" is destroyed, remove this card.<br /><br />At the end of the Combat phase, if \"Captain Rex\" did not perform an attack this phase, remove this card.",
+    "text": "When attacking a ship other than “Captain Rex,” roll 1 fewer attack die.<br /><br />When you declare an attack targeting “Captain Rex” or when “Captain Rex” is destroyed, remove this card.<br /><br />At the end of the Combat phase, if “Captain Rex” did not perform an attack this phase, remove this card.",
     "name": "Suppressive Fire",
     "xws": "suppressivefire",
     "unique": true,
@@ -25,7 +25,7 @@
   },
   {
     "image": "conditions/a-debt-to-pay.png",
-    "text": "When attacking a ship that has the \"A Score to Settle\" Upgrade card, you may change 1 [Focus] result to a [Critical Hit] result.",
+    "text": "When attacking a ship that has the “A Score to Settle” Upgrade card, you may change 1 [Focus] result to a [Critical Hit] result.",
     "name": "A Debt to Pay",
     "xws": "adebttopay",
     "unique": true,
@@ -33,7 +33,7 @@
   },
   {
     "image": "conditions/mimicked.png",
-    "text": "\"Thweek\" is treated as having your pilot ability.<br /><br />\"Thweek\" cannot apply a Condition card by using your pilot ability.<br /><br />\"Thweek\" does not lose your pilot ability if you are destroyed.",
+    "text": "“Thweek” is treated as having your pilot ability.<br /><br />“Thweek” cannot apply a Condition card by using your pilot ability.<br /><br />“Thweek” does not lose your pilot ability if you are destroyed.",
     "name": "Mimicked",
     "xws": "mimicked",
     "unique": true,
@@ -41,7 +41,7 @@
   },
   {
     "image": "conditions/shadowed.png",
-    "text": "\"Thweek\" is treated as having the pilot skill value you had after setup.<br /><br />This pilot skill value of \"Thweek\" does not change if your pilot skill value changes or you are destroyed.",
+    "text": "“Thweek” is treated as having the pilot skill value you had after setup.<br /><br />This pilot skill value of “Thweek” does not change if your pilot skill value changes or you are destroyed.",
     "name": "Shadowed",
     "xws": "shadowed",
     "unique": true,

@@ -11,7 +11,7 @@
       "Torpedo",
       "Astromech"
     ],
-    "text": "When attacking, reduce the defender's agility value by 1 (to a minimum of \"0\").",
+    "text": "When attacking, reduce the defender’s agility value by 1 (to a minimum of “0”).",
     "image": "pilots/Rebel Alliance/X-wing/wedge-antilles.png",
     "faction": "Rebel Alliance",
     "xws": "wedgeantilles"
@@ -110,7 +110,7 @@
     "xws": "graysquadronpilot"
   },
   {
-    "name": "\"Dutch\" Vander",
+    "name": "“Dutch” Vander",
     "id": 7,
     "unique": true,
     "ship": "Y-wing",
@@ -197,7 +197,7 @@
     "xws": "blacksquadronpilot"
   },
   {
-    "name": "\"Winged Gundark\"",
+    "name": "“Winged Gundark”",
     "id": 13,
     "unique": true,
     "ship": "TIE Fighter",
@@ -210,7 +210,7 @@
     "xws": "wingedgundark"
   },
   {
-    "name": "\"Night Beast\"",
+    "name": "“Night Beast”",
     "id": 14,
     "unique": true,
     "ship": "TIE Fighter",
@@ -223,20 +223,20 @@
     "xws": "nightbeast"
   },
   {
-    "name": "\"Backstabber\"",
+    "name": "“Backstabber”",
     "id": 15,
     "unique": true,
     "ship": "TIE Fighter",
     "skill": 6,
     "points": 16,
     "slots": [],
-    "text": "When attacking from outside the defender's firing arc, roll 1 additional attack die.",
+    "text": "When attacking from outside the defender’s firing arc, roll 1 additional attack die.",
     "image": "pilots/Galactic Empire/TIE Fighter/backstabber.png",
     "faction": "Galactic Empire",
     "xws": "backstabber"
   },
   {
-    "name": "\"Dark Curse\"",
+    "name": "“Dark Curse”",
     "id": 16,
     "unique": true,
     "ship": "TIE Fighter",
@@ -249,7 +249,7 @@
     "xws": "darkcurse"
   },
   {
-    "name": "\"Mauler Mithel\"",
+    "name": "“Mauler Mithel”",
     "id": 17,
     "unique": true,
     "ship": "TIE Fighter",
@@ -264,7 +264,7 @@
     "xws": "maulermithel"
   },
   {
-    "name": "\"Howlrunner\"",
+    "name": "“Howlrunner”",
     "id": 18,
     "unique": true,
     "ship": "TIE Fighter",
@@ -331,7 +331,7 @@
       "Elite",
       "Missile"
     ],
-    "text": "During your \"Perform Action\" step, you may perform 2 actions.",
+    "text": "During your “Perform Action” step, you may perform 2 actions.",
     "image": "pilots/Galactic Empire/TIE Advanced/darth-vader.png",
     "faction": "Galactic Empire",
     "xws": "darthvader"
@@ -372,7 +372,7 @@
     "xws": "sabersquadronpilot"
   },
   {
-    "name": "\"Fel's Wrath\"",
+    "name": "“Fel’s Wrath”",
     "id": 26,
     "unique": true,
     "ship": "TIE Interceptor",
@@ -713,7 +713,7 @@
       "Turret",
       "Crew"
     ],
-    "text": "At the start of the Combat phase, choose 1 other friendly ship at Range 1-3.  Until the end of the phase, treat that ship's pilot skill value as \"12.\"",
+    "text": "At the start of the Combat phase, choose 1 other friendly ship at Range 1-3.  Until the end of the phase, treat that ship’s pilot skill value as “12.”",
     "image": "pilots/Rebel Alliance/HWK-290/roark-garnet.png",
     "faction": "Rebel Alliance",
     "xws": "roarkgarnet"
@@ -932,7 +932,7 @@
     "slots": [
       "Elite"
     ],
-    "text": "When you reveal a [Koiogran Turn] maneuver, you may treat the speed of that maneuver as \"1,\" \"3,\" or \"5\".",
+    "text": "When you reveal a [Koiogran Turn] maneuver, you may treat the speed of that maneuver as “1,” “3,” or “5”.",
     "image": "pilots/Galactic Empire/TIE Interceptor/tetran-cowall.png",
     "faction": "Galactic Empire",
     "xws": "tetrancowall"
@@ -1133,7 +1133,7 @@
     "xws": "blackmoonsquadronpilot"
   },
   {
-    "name": "Etahn A'baht",
+    "name": "Etahn A’baht",
     "id": 73,
     "unique": true,
     "ship": "E-wing",
@@ -1197,7 +1197,7 @@
     "xws": "shadowsquadronpilot"
   },
   {
-    "name": "\"Echo\"",
+    "name": "“Echo”",
     "id": 77,
     "unique": true,
     "ship": "TIE Phantom",
@@ -1214,7 +1214,7 @@
     "xws": "echo"
   },
   {
-    "name": "\"Whisper\"",
+    "name": "“Whisper”",
     "id": 78,
     "unique": true,
     "ship": "TIE Phantom",
@@ -1301,7 +1301,7 @@
     "xws": "jekporkins"
   },
   {
-    "name": "\"Hobbie\" Klivian",
+    "name": "“Hobbie” Klivian",
     "id": 83,
     "unique": true,
     "ship": "X-wing",
@@ -1467,7 +1467,7 @@
     "xws": "captainoicunn"
   },
   {
-    "name": "\"Leebo\"",
+    "name": "“Leebo”",
     "id": 92,
     "unique": true,
     "ship": "YT-2400",
@@ -1629,7 +1629,7 @@
     "xws": "emonazzameen"
   },
   {
-    "name": "N'dru Suhlak",
+    "name": "N’dru Suhlak",
     "id": 101,
     "unique": true,
     "ship": "Z-95 Headhunter",
@@ -1735,7 +1735,7 @@
       "Bomb",
       "Illicit"
     ],
-    "text": "You may execute the ([Segnor's Loop Left] 3) or ([Segnor's Loop Right] 3) maneuver using the corresponding ([Turn Left] 3) or ([Turn Right] 3) template.",
+    "text": "You may execute the ([Segnor’s Loop Left] 3) or ([Segnor’s Loop Right] 3) maneuver using the corresponding ([Turn Left] 3) or ([Turn Right] 3) template.",
     "faction": "Scum and Villainy",
     "image": "pilots/Scum and Villainy/Aggressor/ig-88d.png",
     "xws": "ig88d"
@@ -1787,7 +1787,7 @@
     "xws": "drearenthal"
   },
   {
-    "name": "Kaa'to Leeachos",
+    "name": "Kaa’to Leeachos",
     "id": 110,
     "unique": true,
     "ship": "Z-95 Headhunter",
@@ -1904,7 +1904,7 @@
       "Crew",
       "Illicit"
     ],
-    "text": "At the end of the Activation phase, choose 1 enemy ship at Range 1-2. Until the end of the Combat phase, treat that ship's pilot skill value as \"0\".",
+    "text": "At the end of the Activation phase, choose 1 enemy ship at Range 1-2. Until the end of the Combat phase, treat that ship’s pilot skill value as “0”.",
     "image": "pilots/Scum and Villainy/HWK-290/torkil-mux.png",
     "faction": "Scum and Villainy",
     "xws": "torkilmux"
@@ -1968,7 +1968,7 @@
     "xws": "commanderalozen"
   },
   {
-    "name": "Laetin A'shera",
+    "name": "Laetin A’shera",
     "id": 121,
     "unique": true,
     "ship": "M3-A Interceptor",
@@ -2185,7 +2185,7 @@
     "skill": "?",
     "points": "?",
     "slots": [],
-    "text": "You have the pilot skill and pilot ability of the friendly destroyed ship equipped with the <em>Hound's Tooth</em> Upgrade card.",
+    "text": "You have the pilot skill and pilot ability of the friendly destroyed ship equipped with the <em>Hound’s Tooth</em> Upgrade card.",
     "image": "pilots/Scum and Villainy/Z-95 Headhunter/nashtah-pup.png",
     "faction": "Scum and Villainy",
     "xws": "nashtahpuppilot"
@@ -2314,7 +2314,7 @@
     "xws": "mirandadoni"
   },
   {
-    "name": "\"Redline\"",
+    "name": "“Redline”",
     "id": 142,
     "unique": true,
     "ship": "TIE Punisher",
@@ -2335,7 +2335,7 @@
     "xws": "redline"
   },
   {
-    "name": "\"Deathrain\"",
+    "name": "“Deathrain”",
     "id": 143,
     "unique": true,
     "ship": "TIE Punisher",
@@ -2440,7 +2440,7 @@
     "xws": "guardiansquadronpilot"
   },
   {
-    "name": "\"Epsilon Leader\"",
+    "name": "“Epsilon Leader”",
     "unique": true,
     "id": 148,
     "ship": "TIE/fo Fighter",
@@ -2468,7 +2468,7 @@
     "xws": "epsilonsquadronpilot"
   },
   {
-    "name": "\"Omega Ace\"",
+    "name": "“Omega Ace”",
     "unique": true,
     "id": 150,
     "ship": "TIE/fo Fighter",
@@ -2484,7 +2484,7 @@
     "xws": "omegaace"
   },
   {
-    "name": "\"Omega Leader\"",
+    "name": "“Omega Leader”",
     "unique": true,
     "id": 151,
     "ship": "TIE/fo Fighter",
@@ -2500,7 +2500,7 @@
     "xws": "omegaleader"
   },
   {
-    "name": "\"Zeta Ace\"",
+    "name": "“Zeta Ace”",
     "unique": true,
     "id": 152,
     "ship": "TIE/fo Fighter",
@@ -2576,7 +2576,7 @@
     "xws": "poedameron"
   },
   {
-    "name": "\"Red Ace\"",
+    "name": "“Red Ace”",
     "unique": true,
     "id": 157,
     "ship": "T-70 X-wing",
@@ -2609,7 +2609,7 @@
     "xws": "redsquadronveteran"
   },
   {
-    "name": "\"Blue Ace\"",
+    "name": "“Blue Ace”",
     "unique": true,
     "id": 159,
     "ship": "T-70 X-wing",
@@ -2725,7 +2725,7 @@
   {
     "image": "pilots/Galactic Empire/TIE Fighter/scourge.png",
     "text": "When attacking a defender that has 1 or more Damage cards, roll 1 additional attack die.",
-    "name": "\"Scourge\"",
+    "name": "“Scourge”",
     "ship": "TIE Fighter",
     "unique": true,
     "skill": 7,
@@ -2739,7 +2739,7 @@
   },
   {
     "image": "pilots/Galactic Empire/TIE Fighter/wampa.png",
-    "name": "\"Wampa\"",
+    "name": "“Wampa”",
     "text": "When attacking, you may cancel all dice results. If you cancel a [Critical Hit] result, deal 1 facedown Damage card to the defender.",
     "ship": "TIE Fighter",
     "unique": true,
@@ -2753,7 +2753,7 @@
   {
     "image": "pilots/Galactic Empire/TIE Fighter/youngster.png",
     "text": "Friendly TIE fighters at Range 1-3 may perform the action on your equipped [Elite] Upgrade card.",
-    "name": "\"Youngster\"",
+    "name": "“Youngster”",
     "ship": "TIE Fighter",
     "unique": true,
     "skill": 6,
@@ -2768,7 +2768,7 @@
   {
     "image": "pilots/Galactic Empire/TIE Fighter/chaser.png",
     "text": "When another friendly ship at Range 1 spends a focus token, assign a focus token to your ship.",
-    "name": "\"Chaser\"",
+    "name": "“Chaser”",
     "ship": "TIE Fighter",
     "unique": true,
     "skill": 3,
@@ -2797,8 +2797,8 @@
   },
   {
     "image": "pilots/First Order/TIE-fo Fighter/epsilon-ace.png",
-    "text": "While you do not have any Damage cards, treat your pilot skill value as \"12.\"",
-    "name": "\"Epsilon Ace\"",
+    "text": "While you do not have any Damage cards, treat your pilot skill value as “12.”",
+    "name": "“Epsilon Ace”",
     "ship": "TIE/fo Fighter",
     "unique": true,
     "skill": 4,
@@ -2813,7 +2813,7 @@
   {
     "image": "pilots/First Order/TIE-fo Fighter/zeta-leader.png",
     "text": "When attacking, if you are not stressed, you may receive 1 stress token to roll 1 additional attack die.",
-    "name": "\"Zeta Leader\"",
+    "name": "“Zeta Leader”",
     "ship": "TIE/fo Fighter",
     "unique": true,
     "skill": 7,
@@ -2829,7 +2829,7 @@
   {
     "image": "pilots/Rebel Alliance/VCX-100/chopper.png",
     "text": "At the start of the Combat phase, each enemy ship you are touching receives 1 stress token.",
-    "name": "\"Chopper\"",
+    "name": "“Chopper”",
     "ship": "VCX-100",
     "unique": true,
     "skill": 4,
@@ -2917,7 +2917,7 @@
   {
     "image": "pilots/Rebel Alliance/Attack Shuttle/zeb-orrelios.png",
     "text": "When defending, you may cancel [Critical Hit] results before [Hit] results.",
-    "name": "\"Zeb\" Orrelios",
+    "name": "“Zeb” Orrelios",
     "ship": "Attack Shuttle",
     "unique": true,
     "skill": 3,
@@ -3156,7 +3156,7 @@
   {
     "image": "pilots/Galactic Empire/TIE Bomber/deathfire.png",
     "text": "When you reveal your maneuver dial or after you perform an action, you may perform a [Bomb] Upgrade card action as a free action.",
-    "name": "\"Deathfire\"",
+    "name": "“Deathfire”",
     "xws": "deathfire",
     "ship": "TIE Bomber",
     "unique": true,
@@ -3311,7 +3311,7 @@
   },
   {
     "text": "Once per round, when you lose a shield token, you may perform a primary weapon attack.",
-    "name": "\"Quickdraw\"",
+    "name": "“Quickdraw”",
     "xws": "quickdraw",
     "ship": "TIE/sf Fighter",
     "unique": true,
@@ -3415,7 +3415,7 @@
   {
     "image": "pilots/First Order/TIE-sf Fighter/backdraft.png",
     "text": "When attacking a ship inside your auxiliary firing arc, you may add 1 [Critical Hit] result.",
-    "name": "\"Backdraft\"",
+    "name": "“Backdraft”",
     "xws": "backdraft",
     "ship": "TIE/sf Fighter",
     "unique": true,
@@ -3569,7 +3569,7 @@
     "id": 214
   },
   {
-    "text": "The first time you are hit by an attack each round, assign the \"I'll Show You the Dark Side\" Condition card to the defender.",
+    "text": "The first time you are hit by an attack each round, assign the “I’ll Show You the Dark Side” Condition card to the defender.",
     "name": "Kylo Ren",
     "xws": "kyloren",
     "ship": "Upsilon-class Shuttle",
@@ -3588,7 +3588,7 @@
     "id": 215,
     "image": "pilots/First Order/Upsilon-class Shuttle/kylo-ren.png",
     "conditions": [
-      "I'll Show You the Dark Side"
+      "I’ll Show You the Dark Side"
     ]
   },
   {
@@ -3630,8 +3630,8 @@
   },
   {
     "image": "pilots/Galactic Empire/TIE Striker/duchess.png",
-    "text": "While you have the \"Adaptive Ailerons\" Upgrade card equipped, you may choose to ignore its card ability.",
-    "name": "\"Duchess\"",
+    "text": "While you have the “Adaptive Ailerons” Upgrade card equipped, you may choose to ignore its card ability.",
+    "name": "“Duchess”",
     "xws": "duchess",
     "ship": "TIE Striker",
     "unique": true,
@@ -3717,7 +3717,7 @@
   {
     "image": "pilots/Resistance/T-70 X-wing/snap-wexley.png",
     "text": "After you execute a 2-, 3-, or 4-speed maneuver, if you are not touching a ship, you may perform a free boost action.",
-    "name": "\"Snap\" Wexley",
+    "name": "“Snap” Wexley",
     "xws": "snapwexley",
     "ship": "T-70 X-wing",
     "unique": true,
@@ -3764,7 +3764,7 @@
   },
   {
     "image": "pilots/Rebel Alliance/TIE Fighter/captain-rex.png",
-    "text": "After you perform an attack, assign the \"Suppressive Fire\" Condition card to the defender.",
+    "text": "After you perform an attack, assign the “Suppressive Fire” Condition card to the defender.",
     "name": "Captain Rex",
     "xws": "captainrex",
     "ship": "TIE Fighter",
@@ -3888,7 +3888,7 @@
   },
   {
     "image": "pilots/Scum and Villainy/Quadjumper/constable-zuvio.png",
-    "text": "When you reveal a reverse maneuver, you may drop a bomb using your front guides (including a bomb with the \"<strong>Action:</strong>\" header).",
+    "text": "When you reveal a reverse maneuver, you may drop a bomb using your front guides (including a bomb with the “<strong>Action:</strong>” header).",
     "name": "Constable Zuvio",
     "xws": "constablezuvio",
     "ship": "Quadjumper",
@@ -3924,8 +3924,8 @@
   },
   {
     "image": "pilots/Galactic Empire/TIE Striker/countdown.png",
-    "text": "When defending, if you are not stressed, during the \"Compare Results\" step, you may suffer 1 damage to cancel <strong>all</strong> dice results. If you do, receive 1 stress token.",
-    "name": "\"Countdown\"",
+    "text": "When defending, if you are not stressed, during the “Compare Results” step, you may suffer 1 damage to cancel <strong>all</strong> dice results. If you do, receive 1 stress token.",
+    "name": "“Countdown”",
     "xws": "countdown",
     "ship": "TIE Striker",
     "unique": true,
@@ -3938,7 +3938,7 @@
   {
     "image": "pilots/Galactic Empire/TIE Striker/pure-sabacc.png",
     "text": "When attacking, if you have 1 or fewer Damage cards, roll 1 additional attack die.",
-    "name": "\"Pure Sabacc\"",
+    "name": "“Pure Sabacc”",
     "xws": "puresabacc",
     "ship": "TIE Striker",
     "unique": true,
@@ -4007,7 +4007,7 @@
   },
   {
     "text": "When defending, you may cancel [Critical Hit] results before [Hit] results.",
-    "name": "\"Zeb\" Orrelios",
+    "name": "“Zeb” Orrelios",
     "xws": "zeborrelios",
     "ship": "TIE Fighter",
     "unique": true,
@@ -4159,7 +4159,7 @@
   },
   {
     "image": "pilots/Galactic Empire/TIE Aggressor/lieutenant-kestal.png",
-    "text": "When attacking, you may spend 1 focus token to cancel all of the defender's blank and [Focus] results.",
+    "text": "When attacking, you may spend 1 focus token to cancel all of the defender’s blank and [Focus] results.",
     "name": "Lieutenant Kestal",
     "xws": "lieutenantkestal",
     "ship": "TIE Aggressor",
@@ -4178,7 +4178,7 @@
   {
     "image": "pilots/Galactic Empire/TIE Aggressor/double-edge.png",
     "text": "Once per round, after you perform a secondary weapon attack that does not hit, you may perform an attack with a different weapon.",
-    "name": "\"Double Edge\"",
+    "name": "“Double Edge”",
     "xws": "doubleedge",
     "ship": "TIE Aggressor",
     "unique": true,
@@ -4357,7 +4357,7 @@
   },
   {
     "image": "pilots/Scum and Villainy/StarViper/dalan-oberos.png",
-    "text": "If you are not stressed, when you reveal a turn, bank, or Segnor's Loop maneuver, you may instead treat it as a red Tallon Roll maneuver of the same direction (left or right) using the template of the original revealed maneuver.",
+    "text": "If you are not stressed, when you reveal a turn, bank, or Segnor’s Loop maneuver, you may instead treat it as a red Tallon Roll maneuver of the same direction (left or right) using the template of the original revealed maneuver.",
     "name": "Dalan Oberos",
     "xws": "dalanoberos",
     "ship": "StarViper",
@@ -4373,7 +4373,7 @@
   },
   {
     "image": "pilots/Scum and Villainy/StarViper/thweek.png",
-    "text": "During setup, before the \"Place Forces\" step, you may choose 1 enemy ship and assign the \"Shadowed\" or \"Mimicked\" Condition card to it.",
+    "text": "During setup, before the “Place Forces” step, you may choose 1 enemy ship and assign the “Shadowed” or “Mimicked” Condition card to it.",
     "name": "Thweek",
     "xws": "thweek",
     "ship": "StarViper",
@@ -4462,7 +4462,7 @@
   },
   {
     "image": "pilots/First Order/TIE Silencer/kylo-ren.png",
-    "text": "The first time you are hit by an attack each round, assign the \"I'll Show You the Dark Side\" Condition card to the defender.",
+    "text": "The first time you are hit by an attack each round, assign the “I’ll Show You the Dark Side” Condition card to the defender.",
     "name": "Kylo Ren",
     "xws": "kyloren",
     "ship": "TIE Silencer",
@@ -4471,7 +4471,7 @@
     "points": 35,
     "faction": "First Order",
     "conditions": [
-      "I'll Show You the Dark Side"
+      "I’ll Show You the Dark Side"
     ],
     "slots": [
       "Elite",
@@ -4481,8 +4481,8 @@
     "id": 268
   },
   {
-    "text": "When attacking, if the defender is inside your firing arc, you may spend 1 [Hit] or [Critical Hit] result to assign the \"Rattled\" Condition to the defender.",
-    "name": "\"Crimson Leader\"",
+    "text": "When attacking, if the defender is inside your firing arc, you may spend 1 [Hit] or [Critical Hit] result to assign the “Rattled” Condition to the defender.",
+    "name": "“Crimson Leader”",
     "xws": "crimsonleader",
     "ship": "B/SF-17 Bomber",
     "unique": true,
@@ -4602,7 +4602,7 @@
   {
     "image": "pilots/Rebel Alliance/Sheathipede-class Shuttle/zeb-orrelios.png",
     "text": "When defending, you may cancel [Critical Hit] results before [Hit] results.",
-    "name": "\"Zeb\" Orrelios",
+    "name": "“Zeb” Orrelios",
     "xws": "zeborrelios",
     "ship": "Sheathipede-class Shuttle",
     "unique": true,
@@ -4649,7 +4649,7 @@
   },
   {
     "text": "When placing a bomb token you dropped after revealing your manuever dial, you may place the bomb token anywhere on the play area touching your ship.",
-    "name": "\"Crimson Specialist\"",
+    "name": "“Crimson Specialist”",
     "xws": "crimsonspecialist",
     "ship": "B/SF-17 Bomber",
     "unique": true,
@@ -4666,7 +4666,7 @@
     "image": "pilots/Resistance/B-SF-17 Bomber/crimson-specialist.png"
   },
   {
-    "name": "\"Cobalt Leader\"",
+    "name": "“Cobalt Leader”",
     "xws": "cobaltleader",
     "text": "When attacking, if the defender is at range 1 of a bomb token, the defender rolls 1 fewer defense die (to a minimum of 0).",
     "ship": "B/SF-17 Bomber",
@@ -4686,7 +4686,7 @@
   {
     "image": "pilots/First Order/TIE Silencer/test-pilot-blackout.png",
     "text": "When attacking, if the attack is obstructed, the defender rolls 2 fewer defense dice (to a minimum of 0).",
-    "name": "Test Pilot \"Blackout\"",
+    "name": "Test Pilot “Blackout”",
     "xws": "testpilotblackout",
     "ship": "TIE Silencer",
     "unique": true,

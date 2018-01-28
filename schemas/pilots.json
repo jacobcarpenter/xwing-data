@@ -8,6 +8,7 @@
     "name": {
       "type": "string",
       "description": "The pilot's name, as written on the card itself.",
+      "pattern": "^[^\"']+$",
       "minLength": 1
     },
     "id": {
@@ -74,6 +75,7 @@
     "text": {
       "type": "string",
       "description": "The pilot card's text describing its effect.",
+      "pattern": "^[^\"']+$",
       "minLength": 1
     },
     "image": {

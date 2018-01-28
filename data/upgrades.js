@@ -288,7 +288,7 @@
     "id": 28,
     "slot": "Bomb",
     "points": 3,
-    "text": "<strong>Action:</strong> Discard this card to drop 1 proximity mine token. When a ship's base or maneuver template overlaps this token, this token <strong>detonates</strong>.",
+    "text": "<strong>Action:</strong> Discard this card to drop 1 proximity mine token. When a ship’s base or maneuver template overlaps this token, this token <strong>detonates</strong>.",
     "effect": "<strong>Bomb Token:</strong> When this bomb token detonates, the ship that moved through or overlapped this token rolls 3 attack dice and suffers all damage [Hit] and critical damage [Critical Hit] rolled. Then discard this token.",
     "image": "upgrades/Bomb/proximity-mines.png",
     "xws": "proximitymines"
@@ -409,7 +409,7 @@
     "id": 40,
     "slot": "Crew",
     "points": 1,
-    "text": "At the start of the Activation phase, choose 1 enemy ship at Range 1-2.  You may look at that ship's chosen maneuver.",
+    "text": "At the start of the Activation phase, choose 1 enemy ship at Range 1-2.  You may look at that ship’s chosen maneuver.",
     "image": "upgrades/Crew/intelligence-agent.png",
     "xws": "intelligenceagent"
   },
@@ -437,7 +437,7 @@
     "id": 43,
     "slot": "System",
     "points": 3,
-    "text": "Immediately before you reveal your maneuver, you may perform 1 free action.<br /><br />If you use this ability, you must skip your \"Perform Action\" step during this round.",
+    "text": "Immediately before you reveal your maneuver, you may perform 1 free action.<br /><br />If you use this ability, you must skip your “Perform Action” step during this round.",
     "image": "upgrades/System/advanced-sensors.png",
     "xws": "advancedsensors"
   },
@@ -446,7 +446,7 @@
     "id": 44,
     "slot": "System",
     "points": 4,
-    "text": "When defending, you may change 1 of the attacker's [Hit] results into a [Focus] result.<br /><br />The attacker cannot reroll the die with the changed result.",
+    "text": "When defending, you may change 1 of the attacker’s [Hit] results into a [Focus] result.<br /><br />The attacker cannot reroll the die with the changed result.",
     "image": "upgrades/System/sensor-jammer.png",
     "xws": "sensorjammer"
   },
@@ -477,7 +477,7 @@
     "id": 47,
     "slot": "Crew",
     "points": 4,
-    "text": "When defending, you may reroll 1 of your [Focus] results.  If the attacker's pilot skill value is \"2\" or lower, you may reroll 1 of your blank results instead.",
+    "text": "When defending, you may reroll 1 of your [Focus] results.  If the attacker’s pilot skill value is “2” or lower, you may reroll 1 of your blank results instead.",
     "image": "upgrades/Crew/flight-instructor.png",
     "xws": "flightinstructor"
   },
@@ -555,7 +555,7 @@
     "id": 55,
     "slot": "Elite",
     "points": 2,
-    "text": "At the start of the Combat phase, you may choose 1 friendly ship at Range 1-2. Exchange your pilot skill with that ship's pilot skill until the end of the phase.",
+    "text": "At the start of the Combat phase, you may choose 1 friendly ship at Range 1-2. Exchange your pilot skill with that ship’s pilot skill until the end of the phase.",
     "image": "upgrades/Elite/decoy.png",
     "xws": "decoy"
   },
@@ -564,7 +564,7 @@
     "id": 56,
     "slot": "Elite",
     "points": 3,
-    "text": "When attacking a ship inside your firing arc, if you are not inside that ship's firing arc, reduce its agility value by 1 (to a minimum of 0).",
+    "text": "When attacking a ship inside your firing arc, if you are not inside that ship’s firing arc, reduce its agility value by 1 (to a minimum of 0).",
     "image": "upgrades/Elite/outmaneuver.png",
     "xws": "outmaneuver"
   },
@@ -573,7 +573,7 @@
     "id": 57,
     "slot": "Elite",
     "points": 3,
-    "text": "When attacking, you may reroll 1 attack die. If the defender's pilot skill value is \"2\" or lower, you may instead reroll up to 2 attack dice.",
+    "text": "When attacking, you may reroll 1 attack die. If the defender’s pilot skill value is “2” or lower, you may instead reroll up to 2 attack dice.",
     "image": "upgrades/Elite/predator.png",
     "xws": "predator"
   },
@@ -584,7 +584,7 @@
     "points": 2,
     "attack": 3,
     "range": "2-3",
-    "text": "<strong>Attack (target lock):</strong> Discard this card and spend your target lock to perform this attack.<br /><br />After you perform this attack, the defender receives 1 stress token if its hull value is \"4\" or lower.",
+    "text": "<strong>Attack (target lock):</strong> Discard this card and spend your target lock to perform this attack.<br /><br />After you perform this attack, the defender receives 1 stress token if its hull value is “4” or lower.",
     "image": "upgrades/Torpedo/flechette-torpedoes.png",
     "xws": "flechettetorpedoes"
   },
@@ -603,7 +603,7 @@
     "unique": true,
     "slot": "Astromech",
     "points": 3,
-    "text": "<strong>Action:</strong> Choose an enemy ship at Range 1-2.  If you are inside that ship's firing arc, you may acquire a target lock on that ship. Then, you may perform a free boost action.",
+    "text": "<strong>Action:</strong> Choose an enemy ship at Range 1-2.  If you are inside that ship’s firing arc, you may acquire a target lock on that ship. Then, you may perform a free boost action.",
     "image": "upgrades/Astromech/r7-t1.png",
     "xws": "r7t1"
   },
@@ -710,7 +710,7 @@
     "unique": true,
     "slot": "Astromech",
     "points": 1,
-    "text": "Your upgrade bar gains the [Elite] upgrade icon.<br /><br />You cannot equip this upgrade if you already have a [Elite] upgrade icon or if your pilot skill value is \"2\" or lower.",
+    "text": "Your upgrade bar gains the [Elite] upgrade icon.<br /><br />You cannot equip this upgrade if you already have a [Elite] upgrade icon or if your pilot skill value is “2” or lower.",
     "image": "upgrades/Astromech/r2-d6.png",
     "xws": "r2d6",
     "grants": [
@@ -725,7 +725,7 @@
     "id": 71,
     "slot": "System",
     "points": 1,
-    "text": "During the Activation phase, treat your pilot skill value as \"0\".",
+    "text": "During the Activation phase, treat your pilot skill value as “0”.",
     "image": "upgrades/System/enhanced-scopes.png",
     "xws": "enhancedscopes"
   },
@@ -827,7 +827,7 @@
     "slot": "Crew",
     "points": 3,
     "faction": "Rebel Alliance",
-    "text": "At the start of the Activation phase, you may discard this card to treat each friendly ship's pilot skill value as \"12\" until the end of the phase.",
+    "text": "At the start of the Activation phase, you may discard this card to treat each friendly ship’s pilot skill value as “12” until the end of the phase.",
     "size": [
       "huge"
     ],
@@ -929,7 +929,7 @@
     "unique": true,
     "faction": "Rebel Alliance",
     "points": 6,
-    "text": "At the start of the Activation phase, choose 1 enemy ship at Range 1-3. You may look at that ship's chosen maneuver. If the maneuver is white, assign that ship 1 stress token.",
+    "text": "At the start of the Activation phase, choose 1 enemy ship at Range 1-3. You may look at that ship’s chosen maneuver. If the maneuver is white, assign that ship 1 stress token.",
     "size": [
       "huge"
     ],
@@ -961,7 +961,7 @@
     "slot": "Team",
     "limited": true,
     "points": 4,
-    "text": "During the Activation phase, when you reveal a [Straight] maneuver, gain 1 additional energy during the \"Gain Energy\" step.",
+    "text": "During the Activation phase, when you reveal a [Straight] maneuver, gain 1 additional energy during the “Gain Energy” step.",
     "image": "upgrades/Team/engineering-team.png",
     "xws": "engineeringteam"
   },
@@ -1018,7 +1018,7 @@
     "xws": "dashrendar"
   },
   {
-    "name": "\"Leebo\"",
+    "name": "“Leebo”",
     "id": 98,
     "slot": "Crew",
     "unique": true,
@@ -1075,7 +1075,7 @@
     "id": 103,
     "slot": "Elite",
     "points": 2,
-    "text": "While you are touching an enemy ship, reduce that ship's agility value by 1.",
+    "text": "While you are touching an enemy ship, reduce that ship’s agility value by 1.",
     "image": "upgrades/Elite/intimidation.png",
     "xws": "intimidation"
   },
@@ -1140,12 +1140,12 @@
     "xws": "unhingedastromech"
   },
   {
-    "name": "\"Genius\"",
+    "name": "“Genius”",
     "id": 110,
     "unique": true,
     "slot": "Salvaged Astromech",
     "points": 0,
-    "text": "After you reveal and execute a maneuver, if you did not overlap a ship, you may discard 1 of your equipped [Bomb] Upgrade cards without the \"<strong>Action:</strong>\" header to drop the corresponding bomb token.",
+    "text": "After you reveal and execute a maneuver, if you did not overlap a ship, you may discard 1 of your equipped [Bomb] Upgrade cards without the “<strong>Action:</strong>” header to drop the corresponding bomb token.",
     "image": "upgrades/Salvaged Astromech/genius.png",
     "xws": "genius"
   },
@@ -1178,7 +1178,7 @@
     "xws": "salvagedastromech"
   },
   {
-    "name": "Dead Man's Switch",
+    "name": "Dead Man’s Switch",
     "id": 113,
     "slot": "Illicit",
     "points": 2,
@@ -1196,7 +1196,7 @@
     "xws": "feedbackarray"
   },
   {
-    "name": "\"Hot Shot\" Blaster",
+    "name": "“Hot Shot” Blaster",
     "id": 115,
     "slot": "Illicit",
     "points": 3,
@@ -1293,7 +1293,7 @@
     "xws": "flechettecannon"
   },
   {
-    "name": "\"Mangler\" Cannon",
+    "name": "“Mangler” Cannon",
     "id": 124,
     "slot": "Cannon",
     "points": 4,
@@ -1386,7 +1386,7 @@
     "xws": "bossk"
   },
   {
-    "name": "Hound's Tooth",
+    "name": "Hound’s Tooth",
     "unique": true,
     "id": 132,
     "slot": "Title",
@@ -1403,7 +1403,7 @@
     "id": 133,
     "slot": "Elite",
     "points": 1,
-    "text": "After you execute a white or green maneuver on your dial, you may discard this card to rotate your ship 180&deg;. Then receive 1 stress token <strong>after</strong> the \"Check Pilot Stress\" step.",
+    "text": "After you execute a white or green maneuver on your dial, you may discard this card to rotate your ship 180&deg;. Then receive 1 stress token <strong>after</strong> the “Check Pilot Stress” step.",
     "image": "upgrades/Elite/lightning-reflexes.png",
     "size": [
       "small"
@@ -1425,8 +1425,8 @@
     "id": 135,
     "slot": "Bomb",
     "points": 4,
-    "text": "<strong>Action:</strong> Discard this card to <strong>drop</strong> 1 Conner net token.<br /><br />When a ship's base or maneuver template overlaps this token, this token <strong>detonates</strong>.",
-    "effect": "<strong>Bomb Token:</strong> When this bomb token detonates, the ship that moved through or overlapped this token suffers 1 damage, receives 2 ion tokens and must skip its \"Perform Action\" step. Then discard this token.",
+    "text": "<strong>Action:</strong> Discard this card to <strong>drop</strong> 1 Conner net token.<br /><br />When a ship’s base or maneuver template overlaps this token, this token <strong>detonates</strong>.",
+    "effect": "<strong>Bomb Token:</strong> When this bomb token detonates, the ship that moved through or overlapped this token suffers 1 damage, receives 2 ion tokens and must skip its “Perform Action” step. Then discard this token.",
     "image": "upgrades/Bomb/conner-net.png",
     "xws": "connernet"
   },
@@ -1466,7 +1466,7 @@
     "id": 139,
     "slot": "Bomb",
     "points": 4,
-    "text": "<strong>Action:</strong> Discard this card to <strong>drop</strong> 1 cluster mine token set.<br /><br />When a ship's base or maneuver template overlaps a cluster mine token, that token <strong>detonates</strong>.",
+    "text": "<strong>Action:</strong> Discard this card to <strong>drop</strong> 1 cluster mine token set.<br /><br />When a ship’s base or maneuver template overlaps a cluster mine token, that token <strong>detonates</strong>.",
     "effect": "<strong>Bomb Token:</strong> When one of these bomb token detonates, the ship that moved through or overlapped that token rolls 2 attack dice and suffers 1 damage for each [Hit] and [Critical Hit] rolled. Then discard that token.",
     "image": "upgrades/Bomb/cluster-mines.png",
     "xws": "clustermines"
@@ -1485,7 +1485,7 @@
     "id": 141,
     "slot": "Elite",
     "points": 1,
-    "text": "When attacking a ship inside your firing arc, at the start of the 'Compare Results' step, you may discard this card to cancel 1 of the defender's [Evade] results.",
+    "text": "When attacking a ship inside your firing arc, at the start of the “Compare Results” step, you may discard this card to cancel 1 of the defender’s [Evade] results.",
     "image": "upgrades/Elite/crack-shot.png",
     "xws": "crackshot"
   },
@@ -1549,7 +1549,7 @@
     "size": [
       "small"
     ],
-    "text": "When attacking, if you have an evade token, you may change 1 of the defender's [Evade] results to a [Focus] result.",
+    "text": "When attacking, if you have an evade token, you may change 1 of the defender’s [Evade] results to a [Focus] result.",
     "image": "upgrades/Elite/juke.png",
     "xws": "juke"
   },
@@ -1652,7 +1652,7 @@
     "ship": [
       "TIE Interceptor"
     ],
-    "text": "You may equip up to 2 different Modification upgrades (instead of 1).<br /><br />You cannot equip this card if your pilot skill value is \"4\" or lower.",
+    "text": "You may equip up to 2 different Modification upgrades (instead of 1).<br /><br />You cannot equip this card if your pilot skill value is “4” or lower.",
     "image": "upgrades/Title/royal-guard-tie.png",
     "grants": [
       {
@@ -1663,7 +1663,7 @@
     "xws": "royalguardtie"
   },
   {
-    "name": "Dodonna's Pride",
+    "name": "Dodonna’s Pride",
     "id": 156,
     "unique": true,
     "slot": "Title",
@@ -1683,7 +1683,7 @@
     "ship": [
       "A-wing"
     ],
-    "text": "Your upgrade bar gains 1 [Elite] upgrade icon.<br /><br />You cannot equip 2 of the same [Elite] Upgrade cards. You cannot equip this if your pilot skill value is \"1\" or lower.",
+    "text": "Your upgrade bar gains 1 [Elite] upgrade icon.<br /><br />You cannot equip 2 of the same [Elite] Upgrade cards. You cannot equip this if your pilot skill value is “1” or lower.",
     "image": "upgrades/Title/a-wing-test-pilot.png",
     "grants": [
       {
@@ -1759,7 +1759,7 @@
     "xws": "dutyfree"
   },
   {
-    "name": "Jaina's Light",
+    "name": "Jaina’s Light",
     "id": 162,
     "unique": true,
     "slot": "Title",
@@ -1798,7 +1798,7 @@
     "xws": "dauntless"
   },
   {
-    "name": "\"Heavy Scyk\" Interceptor",
+    "name": "“Heavy Scyk” Interceptor",
     "id": 165,
     "slot": "Title",
     "points": 2,
@@ -1838,7 +1838,7 @@
     "ship": [
       "StarViper"
     ],
-    "text": "Your upgrade bar gains the [System] and [Illicit] upgrade icons.<br /><br />You cannot equip this card if your pilot skill value is \"3\" or lower.",
+    "text": "Your upgrade bar gains the [System] and [Illicit] upgrade icons.<br /><br />You cannot equip this card if your pilot skill value is “3” or lower.",
     "image": "upgrades/Title/virago.png",
     "grants": [
       {
@@ -2115,7 +2115,7 @@
     "slot": "Modification",
     "unique": true,
     "points": 3,
-    "text": "Once per round, after you perform an action, you may perform 1 free action from an equipped Upgrade card with the \"<strong>Action:</strong>\" header. Then receive 1 stress token.",
+    "text": "Once per round, after you perform an action, you may perform 1 free action from an equipped Upgrade card with the “<strong>Action:</strong>” header. Then receive 1 stress token.",
     "image": "upgrades/Modification/experimental-interface.png",
     "xws": "experimentalinterface"
   },
@@ -2419,7 +2419,7 @@
     "xws": "tiev1"
   },
   {
-    "text": "Your action bar gains the [Barrel Roll] action icon.<br /><br />You <strong>must</strong> equip 1 \"Tractor Beam\" Upgrade card (paying its squad point cost as normal).",
+    "text": "Your action bar gains the [Barrel Roll] action icon.<br /><br />You <strong>must</strong> equip 1 “Tractor Beam” Upgrade card (paying its squad point cost as normal).",
     "name": "Mist Hunter",
     "unique": true,
     "points": 0,
@@ -2451,7 +2451,7 @@
   {
     "image": "upgrades/Crew/zeb-orrelios.png",
     "text": "Enemy ships inside your firing arc that you are touching are not considered to be touching you when either you or they activate during the Combat phase.",
-    "name": "\"Zeb\" Orrelios",
+    "name": "“Zeb” Orrelios",
     "unique": true,
     "points": 1,
     "slot": "Crew",
@@ -2505,7 +2505,7 @@
   {
     "image": "upgrades/Crew/chopper.png",
     "text": "You may perform actions even while you are stressed.<br /><br />After you perform an action while you are stressed, suffer 1 damage.",
-    "name": "\"Chopper\"",
+    "name": "“Chopper”",
     "unique": true,
     "points": 0,
     "slot": "Crew",
@@ -2631,7 +2631,7 @@
     "image": "upgrades/Cargo/cluster-bombs.png"
   },
   {
-    "text": "When you deploy a ship, treat its pilot skill value as \"8\" until the end of the round.",
+    "text": "When you deploy a ship, treat its pilot skill value as “8” until the end of the round.",
     "name": "Requiem",
     "unique": true,
     "points": 4,
@@ -2674,7 +2674,7 @@
   },
   {
     "image": "upgrades/Modification/guidance-chips.png",
-    "text": "Once per round, when attacking with a [Torpedo] or [Missile] secondary weapon, you may change 1 die result to a [Hit] result (or a [Critical Hit] result if your primary weapon value is \"3\" or higher).",
+    "text": "Once per round, when attacking with a [Torpedo] or [Missile] secondary weapon, you may change 1 die result to a [Hit] result (or a [Critical Hit] result if your primary weapon value is “3” or higher).",
     "name": "Guidance Chips",
     "points": 0,
     "slot": "Modification",
@@ -2694,7 +2694,7 @@
   },
   {
     "image": "upgrades/Crew/4-lom.png",
-    "text": "When attacking, during the \"Modify Attack Dice\" step, you may receive 1 ion token to choose 1 of the defender's focus or evade tokens. That token cannot be spent during this attack.",
+    "text": "When attacking, during the “Modify Attack Dice” step, you may receive 1 ion token to choose 1 of the defender’s focus or evade tokens. That token cannot be spent during this attack.",
     "name": "4-LOM",
     "xws": "4lom",
     "unique": true,
@@ -2762,7 +2762,7 @@
   },
   {
     "image": "upgrades/Crew/boba-fett.png",
-    "text": "After performing an attack, if the defender was dealt a faceup Damage card, you may discard this card to choose and discard 1 of the defender's Upgrade cards.",
+    "text": "After performing an attack, if the defender was dealt a faceup Damage card, you may discard this card to choose and discard 1 of the defender’s Upgrade cards.",
     "name": "Boba Fett",
     "xws": "bobafett",
     "unique": true,
@@ -2774,7 +2774,7 @@
   {
     "image": "upgrades/Crew/gonk.png",
     "text": "<strong>Action:</strong> Place 1 shield token on this card.<br /><br /><strong>Action:</strong> Remove 1 shield token from this card to recover 1 shield (up to your shield value).",
-    "name": "\"Gonk\"",
+    "name": "“Gonk”",
     "xws": "gonk",
     "unique": true,
     "points": 2,
@@ -2826,7 +2826,7 @@
     "id": 243
   },
   {
-    "text": "After you perform a boost or barrel roll action, you may remove 1 enemy target lock from a friendly ship at Range 1. You cannot equip this card if your pilot skill is \"6\" or lower.",
+    "text": "After you perform a boost or barrel roll action, you may remove 1 enemy target lock from a friendly ship at Range 1. You cannot equip this card if your pilot skill is “6” or lower.",
     "name": "Black One",
     "xws": "blackone",
     "unique": true,
@@ -2874,7 +2874,7 @@
     "id": 247
   },
   {
-    "text": "When defending, if you are inside the attacker's firing arc and at Range 1 and the attacker is inside your firing arc, add 1 [Evade] result.",
+    "text": "When defending, if you are inside the attacker’s firing arc and at Range 1 and the attacker is inside your firing arc, add 1 [Evade] result.",
     "name": "Concord Dawn Protector",
     "xws": "concorddawnprotector",
     "points": 1,
@@ -2900,7 +2900,7 @@
   },
   {
     "image": "upgrades/Astromech/r3-astromech.png",
-    "text": "Once per round, when attacking with a primary weapon, you may cancel 1 of your [Focus] results during the \"Modify Attack Dice\" step to assign 1 evade token to your ship.",
+    "text": "Once per round, when attacking with a primary weapon, you may cancel 1 of your [Focus] results during the “Modify Attack Dice” step to assign 1 evade token to your ship.",
     "name": "R3 Astromech",
     "xws": "r3astromech",
     "points": 2,
@@ -2927,7 +2927,7 @@
   },
   {
     "image": "upgrades/Crew/tail-gunner.png",
-    "text": "When attacking from your rear-facing auxiliary firing arc, reduce the defender's agility by 1 (to a minimum of \"0\").",
+    "text": "When attacking from your rear-facing auxiliary firing arc, reduce the defender’s agility by 1 (to a minimum of “0”).",
     "name": "Tail Gunner",
     "xws": "tailgunner",
     "limited": true,
@@ -2955,7 +2955,7 @@
   },
   {
     "image": "upgrades/Elite/fearlessness.png",
-    "text": "When attacking, if you are inside the defender's firing arc at Range 1 and the defender is inside your firing arc, you may add 1 [Hit] result to your roll.",
+    "text": "When attacking, if you are inside the defender’s firing arc at Range 1 and the defender is inside your firing arc, you may add 1 [Hit] result to your roll.",
     "name": "Fearlessness",
     "xws": "fearlessness",
     "points": 1,
@@ -3041,7 +3041,7 @@
   {
     "image": "upgrades/Title/sabines-masterpiece.png",
     "text": "Your upgrade bar gains the [Crew] and [Illicit] upgrade icons.",
-    "name": "Sabine's Masterpiece",
+    "name": "Sabine’s Masterpiece",
     "xws": "sabinesmasterpiece",
     "unique": true,
     "points": 1,
@@ -3064,7 +3064,7 @@
   },
   {
     "image": "upgrades/Crew/kylo-ren.png",
-    "text": "<strong>Action:</strong> Assign the \"I'll Show You the Dark Side\" Condition card to an enemy ship at Range 1-3.",
+    "text": "<strong>Action:</strong> Assign the “I’ll Show You the Dark Side” Condition card to an enemy ship at Range 1-3.",
     "name": "Kylo Ren",
     "xws": "kyloren",
     "unique": true,
@@ -3073,7 +3073,7 @@
     "faction": "Galactic Empire",
     "id": 264,
     "conditions": [
-      "I'll Show You the Dark Side"
+      "I’ll Show You the Dark Side"
     ]
   },
   {
@@ -3089,7 +3089,7 @@
   },
   {
     "text": "At the end of the Combat phase, choose an unstressed enemy ship at Range 1-2. The owner must assign a stress token to it or assign a stress token to another ship at Range 1-2 of you that that player controls.",
-    "name": "Kylo Ren's Shuttle",
+    "name": "Kylo Ren’s Shuttle",
     "xws": "kylorensshuttle",
     "unique": true,
     "points": 2,
@@ -3101,7 +3101,7 @@
     "image": "upgrades/Title/kylo-rens-shuttle.png"
   },
   {
-    "text": "During setup, before the \"Place Forces\" step, choose 1 enemy ship and assign the \"A Debt to Pay\" Condition card to it.<br /><br />When attacking a ship that has the \"A Debt to Pay\" Condition card, you may change 1 [Focus] result to a [Critical Hit] result.",
+    "text": "During setup, before the “Place Forces” step, choose 1 enemy ship and assign the “A Debt to Pay” Condition card to it.<br /><br />When attacking a ship that has the “A Debt to Pay” Condition card, you may change 1 [Focus] result to a [Critical Hit] result.",
     "name": "A Score to Settle",
     "xws": "ascoretosettle",
     "unique": true,
@@ -3126,7 +3126,7 @@
   },
   {
     "image": "upgrades/Crew/cassian-andor.png",
-    "text": "At the end of the Planning phase, you may choose an enemy ship at Range 1-2. Guess aloud that ship's bearing and speed, then look at its dial. If you are correct, you may rotate your dial to another maneuver.",
+    "text": "At the end of the Planning phase, you may choose an enemy ship at Range 1-2. Guess aloud that ship’s bearing and speed, then look at its dial. If you are correct, you may rotate your dial to another maneuver.",
     "name": "Cassian Andor",
     "xws": "cassianandor",
     "unique": true,
@@ -3211,7 +3211,7 @@
   },
   {
     "image": "upgrades/Crew/rey.png",
-    "text": "At the start of the End phase, you may place 1 of your ship's focus tokens on this card. At the start of the Combat phase, you may assign 1 of those tokens to your ship.",
+    "text": "At the start of the End phase, you may place 1 of your ship’s focus tokens on this card. At the start of the Combat phase, you may assign 1 of those tokens to your ship.",
     "name": "Rey",
     "xws": "rey",
     "unique": true,
@@ -3244,7 +3244,7 @@
     "id": 277
   },
   {
-    "text": "When executing a maneuver, you may resolve the \"Check Pilot Stress\" step after the \"Perform Action\" step (instead of before that step).",
+    "text": "When executing a maneuver, you may resolve the “Check Pilot Stress” step after the “Perform Action” step (instead of before that step).",
     "image": "upgrades/Tech/pattern-analyzer.png",
     "name": "Pattern Analyzer",
     "xws": "patternanalyzer",
@@ -3328,7 +3328,7 @@
   },
   {
     "image": "upgrades/Crew/general-hux.png",
-    "text": "<strong>Action:</strong> Choose up to 3 friendly ships at Range 1-2. Assign 1 focus token to each of those ships and assign the \"Fanatical Devotion\" Condition card to 1 of them. Then receive 1 stress token.",
+    "text": "<strong>Action:</strong> Choose up to 3 friendly ships at Range 1-2. Assign 1 focus token to each of those ships and assign the “Fanatical Devotion” Condition card to 1 of them. Then receive 1 stress token.",
     "name": "General Hux",
     "xws": "generalhux",
     "unique": true,
@@ -3352,7 +3352,7 @@
   },
   {
     "image": "upgrades/Tech/targeting-synchronizer.png",
-    "text": "When a friendly ship at Range 1-2 is attacking a ship you have locked, the friendly ship treats the \"<strong>Attack (target lock):</strong>\" header as \"<strong>Attack:</strong>.\" If a game effect instructs that ship to spend a target lock, it may spend your target lock instead.",
+    "text": "When a friendly ship at Range 1-2 is attacking a ship you have locked, the friendly ship treats the “<strong>Attack (target lock):</strong>” header as “<strong>Attack:</strong>.” If a game effect instructs that ship to spend a target lock, it may spend your target lock instead.",
     "name": "Targeting Synchronizer",
     "xws": "targetingsynchronizer",
     "points": 3,
@@ -3361,7 +3361,7 @@
   },
   {
     "image": "upgrades/Tech/hyperwave-comm-scanner.png",
-    "text": "At the start of the \"Place Forces\" step, you may choose to treat your pilot skill value as \"0\", \"6\", or \"12\" until the end of the step.<br /><br />During setup, after another friendly ship is placed at Range 1-2, you may assign 1 focus or evade token to it.",
+    "text": "At the start of the “Place Forces” step, you may choose to treat your pilot skill value as “0”, “6”, or “12” until the end of the step.<br /><br />During setup, after another friendly ship is placed at Range 1-2, you may assign 1 focus or evade token to it.",
     "name": "Hyperwave Comm Scanner",
     "xws": "hyperwavecommscanner",
     "slot": "Tech",
@@ -3432,7 +3432,7 @@
   },
   {
     "image": "upgrades/Modification/lightweight-frame.png",
-    "text": "When defending, after rolling defense dice, if there are more attack dice than defense dice, roll 1 additional defense die.<br /><br />You cannot equip this card if your agility value is \"3\" or higher.",
+    "text": "When defending, after rolling defense dice, if there are more attack dice than defense dice, roll 1 additional defense die.<br /><br />You cannot equip this card if your agility value is “3” or higher.",
     "name": "Lightweight Frame",
     "xws": "lightweightframe",
     "points": 2,
@@ -3543,7 +3543,7 @@
   {
     "image": "upgrades/Title/light-scyk-interceptor.png",
     "text": "All Damage cards dealt to you are dealt faceup. You may treat all bank maneuvers ([Bank Left] or [Bank Right]) as green maneuvers. You cannot equip Modification upgrades.",
-    "name": "\"Light Scyk\" Interceptor",
+    "name": "“Light Scyk” Interceptor",
     "xws": "lightscykinterceptor",
     "points": -2,
     "slot": "Title",
@@ -3616,7 +3616,7 @@
   },
   {
     "image": "upgrades/Modification/pulsed-ray-shield.png",
-    "text": "During the End phase, you may receive 1 ion token to recover 1 shield (up to your shield value). You can equip this card only if your shield value is \"1\".",
+    "text": "During the End phase, you may receive 1 ion token to recover 1 shield (up to your shield value). You can equip this card only if your shield value is “1”.",
     "name": "Pulsed Ray Shield",
     "xws": "pulsedrayshield",
     "points": 2,
@@ -3822,7 +3822,7 @@
   },
   {
     "image": "upgrades/System/minefield-mapper.png",
-    "text": "During setup, after the \"Place Forces\" step, you may discard any number of your equipped [Bomb] Upgrade cards. Place all corresponding bomb tokens in the play area beyond Range 3 of enemy ships.",
+    "text": "During setup, after the “Place Forces” step, you may discard any number of your equipped [Bomb] Upgrade cards. Place all corresponding bomb tokens in the play area beyond Range 3 of enemy ships.",
     "name": "Minefield Mapper",
     "xws": "minefieldmapper",
     "points": 0,
@@ -3860,7 +3860,7 @@
   },
   {
     "image": "upgrades/Missile/harpoon-missiles.png",
-    "text": "<strong>Attack (target lock):</strong> Discard this card to perform this attack.<br /><br />If this attack hits, after the attack resolves, assign the \"Harpooned\" Condition to the defender.",
+    "text": "<strong>Attack (target lock):</strong> Discard this card to perform this attack.<br /><br />If this attack hits, after the attack resolves, assign the “Harpooned” Condition to the defender.",
     "name": "Harpoon Missiles",
     "xws": "harpoonmissiles",
     "points": 4,
@@ -3948,7 +3948,7 @@
   },
   {
     "image": "upgrades/System/trajectory-simulator.png",
-    "text": "You may launch bombs using the ([Straight] 5) template instead of dropping them. You cannot launch bombs with the \"<strong>Action:</strong>\" header in this way.",
+    "text": "You may launch bombs using the ([Straight] 5) template instead of dropping them. You cannot launch bombs with the “<strong>Action:</strong>” header in this way.",
     "name": "Trajectory Simulator",
     "xws": "trajectorysimulator",
     "points": 1,
@@ -4035,7 +4035,7 @@
   },
   {
     "image": "upgrades/Crew/courier-droid.png",
-    "text": "At the start of the \"Place Forces\" step, you may choose to treat your pilot skill value as \"0\" or \"8\" until the end of the step.",
+    "text": "At the start of the “Place Forces” step, you may choose to treat your pilot skill value as “0” or “8” until the end of the step.",
     "name": "Courier Droid",
     "xws": "courierdroid",
     "limited": true,
@@ -4046,7 +4046,7 @@
   {
     "image": "upgrades/Astromech/chopper.png",
     "text": "<strong>Action:</strong> Discard 1 other equipped Upgrade card to recover 1 shield.",
-    "name": "\"Chopper\"",
+    "name": "“Chopper”",
     "xws": "chopper-swx72",
     "unique": true,
     "points": 1,

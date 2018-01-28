@@ -17,7 +17,7 @@
     "name": "Damaged Cockpit",
     "amount": 2,
     "type": "Pilot",
-    "text": "Starting the round after your receive this card, your pilot skill value is treated as \"0.\"",
+    "text": "Starting the round after your receive this card, your pilot skill value is treated as “0.”",
     "image": "damage-decks/core-tfa/damaged-cockpit.png"
   },
   {
@@ -66,7 +66,7 @@
     "name": "Structural Damage",
     "amount": 2,
     "type": "Ship",
-    "text": "Reduce your agility value by 1 (to a minimum of \"0\").<br /><br /><strong>Action:</strong> Roll 1 attack die. On a [Hit] or [Critical Hit] result, flip this card facedown.",
+    "text": "Reduce your agility value by 1 (to a minimum of “0”).<br /><br /><strong>Action:</strong> Roll 1 attack die. On a [Hit] or [Critical Hit] result, flip this card facedown.",
     "image": "damage-decks/core-tfa/structural-damage.png"
   },
   {
